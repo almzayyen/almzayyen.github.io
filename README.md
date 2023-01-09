@@ -19,8 +19,8 @@
 
 - A capable and quick backend developer
 - Software systems engineer
-- Personal website [link](https://almzayyen.github.io)
-- I’m currently accepting new clients this is [my resume](https://read.cv/abdelsalam)
+- Personal website [link](https://read.cv/abdelsalam)
+- I’m currently accepting new clients this is [my resume](https://drive.google.com/file/d/1cCeCot__8YRSWe_Is7UhRDl26sE1cHEy/view?usp=share_link)
 
 <br><br>
 
